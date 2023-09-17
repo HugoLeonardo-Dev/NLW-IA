@@ -6,9 +6,11 @@
 <br/>
 
 ## 🚀 Tecnologias Utilizadas
+
 JavaScript: A linguagem de programação principal usada para criar a lógica do aplicativo.
 HTML: Utilizado para criar a estrutura da página web.
 CSS: Responsável pela estilização e aparência visual do aplicativo.
 
 ## 👌 Funcionalidades Principais
+
 Geração de Resumos: O aplicativo utiliza técnicas de inteligência artificial para gerar resumos curtos de texto inserido pelo usuário.
